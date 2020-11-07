@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/numbers-react-api/static/css/main.ba2de8bb.chunk.css",
-    "main.js": "/numbers-react-api/static/js/main.1e3f8c51.chunk.js",
-    "main.js.map": "/numbers-react-api/static/js/main.1e3f8c51.chunk.js.map",
+    "main.js": "/numbers-react-api/static/js/main.601ce6d3.chunk.js",
+    "main.js.map": "/numbers-react-api/static/js/main.601ce6d3.chunk.js.map",
     "runtime-main.js": "/numbers-react-api/static/js/runtime-main.6dc8ef34.js",
     "runtime-main.js.map": "/numbers-react-api/static/js/runtime-main.6dc8ef34.js.map",
     "static/js/2.f824d26b.chunk.js": "/numbers-react-api/static/js/2.f824d26b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6dc8ef34.js",
     "static/js/2.f824d26b.chunk.js",
     "static/css/main.ba2de8bb.chunk.css",
-    "static/js/main.1e3f8c51.chunk.js"
+    "static/js/main.601ce6d3.chunk.js"
   ]
 }
