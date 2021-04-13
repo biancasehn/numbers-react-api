@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/numbers-react-api/static/css/main.ba2de8bb.chunk.css",
-    "main.js": "/numbers-react-api/static/js/main.601ce6d3.chunk.js",
-    "main.js.map": "/numbers-react-api/static/js/main.601ce6d3.chunk.js.map",
-    "runtime-main.js": "/numbers-react-api/static/js/runtime-main.6dc8ef34.js",
-    "runtime-main.js.map": "/numbers-react-api/static/js/runtime-main.6dc8ef34.js.map",
-    "static/js/2.f824d26b.chunk.js": "/numbers-react-api/static/js/2.f824d26b.chunk.js",
-    "static/js/2.f824d26b.chunk.js.map": "/numbers-react-api/static/js/2.f824d26b.chunk.js.map",
-    "static/js/3.3b55108b.chunk.js": "/numbers-react-api/static/js/3.3b55108b.chunk.js",
-    "static/js/3.3b55108b.chunk.js.map": "/numbers-react-api/static/js/3.3b55108b.chunk.js.map",
+    "main.css": "/numbers-react-api/static/css/main.bf731466.chunk.css",
+    "main.js": "/numbers-react-api/static/js/main.aabf48ff.chunk.js",
+    "main.js.map": "/numbers-react-api/static/js/main.aabf48ff.chunk.js.map",
+    "runtime-main.js": "/numbers-react-api/static/js/runtime-main.f3a16b71.js",
+    "runtime-main.js.map": "/numbers-react-api/static/js/runtime-main.f3a16b71.js.map",
+    "static/js/2.f646128f.chunk.js": "/numbers-react-api/static/js/2.f646128f.chunk.js",
+    "static/js/2.f646128f.chunk.js.map": "/numbers-react-api/static/js/2.f646128f.chunk.js.map",
+    "static/js/3.c077a869.chunk.js": "/numbers-react-api/static/js/3.c077a869.chunk.js",
+    "static/js/3.c077a869.chunk.js.map": "/numbers-react-api/static/js/3.c077a869.chunk.js.map",
     "index.html": "/numbers-react-api/index.html",
-    "static/css/main.ba2de8bb.chunk.css.map": "/numbers-react-api/static/css/main.ba2de8bb.chunk.css.map",
-    "static/js/2.f824d26b.chunk.js.LICENSE.txt": "/numbers-react-api/static/js/2.f824d26b.chunk.js.LICENSE.txt",
+    "static/css/main.bf731466.chunk.css.map": "/numbers-react-api/static/css/main.bf731466.chunk.css.map",
+    "static/js/2.f646128f.chunk.js.LICENSE.txt": "/numbers-react-api/static/js/2.f646128f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/numbers-react-api/static/media/background.9949565f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6dc8ef34.js",
-    "static/js/2.f824d26b.chunk.js",
-    "static/css/main.ba2de8bb.chunk.css",
-    "static/js/main.601ce6d3.chunk.js"
+    "static/js/runtime-main.f3a16b71.js",
+    "static/js/2.f646128f.chunk.js",
+    "static/css/main.bf731466.chunk.css",
+    "static/js/main.aabf48ff.chunk.js"
   ]
 }
