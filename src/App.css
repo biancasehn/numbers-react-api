@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Syne+Mono&display=swap');
 
 .App {
-  background: url(background.jpg) no-repeat center;
+  background: url("background.jpg") no-repeat center;
   text-align: center;
   min-height: 100vh;
   display: flex;
